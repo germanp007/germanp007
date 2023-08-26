@@ -14,3 +14,6 @@
 </div>
 <h4>Focused and achievement-oriented, high level of logic and good performance in problem-solving.
 Enthusiastic and willing to help the team.</h4>
+
+* [Personal Portfolio](https://portfolio-frontdev.netlify.app)
+* [Frontend Mentor Profile](https://www.frontendmentor.io/profile/germanp007)
