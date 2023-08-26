@@ -1,6 +1,6 @@
 
 # Hi ✌ i'm Frontend Developer 🎨 and MERN stack in progress 💻
-## Loving that i do 🚀🚀
+## Loving what i do 🚀🚀 ![GIF animado](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 <div style="display:flex;">
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/react.png" alt="react" style="width:50px;height:50px">
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/next.png" alt="next" style="width:70px;height:60px;">
