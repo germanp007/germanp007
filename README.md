@@ -4,7 +4,7 @@
 <div style="display:flex;">
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/react.png" alt="react" style="width:50px;height:50px;">
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/js.png" alt="js" style="width:50px;height:50px;">
-<img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/ts.png" alt="ts" style="width:50px;height:50px;">
+<img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/ts.png" alt="ts" style="width:60px;height:60px;">
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/tailwind.png" alt="tailwind" style="width:50px;height:50px;">
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/redux.png" alt="redux" style="width:50px;height:50px;">
 </div>
