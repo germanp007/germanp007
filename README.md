@@ -1,7 +1,7 @@
 
 # Hi ✌ i'm Frontend Developer 🎨 and MERN stack in progress 💻
 ## Loving that i do 🚀🚀
-<div style="display:flex; justify-content: space-evenly">
+<div style="display:flex; margin:auto">
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/react.png" alt="react" style="width:50px;height:50px;">
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/next.png" alt="next" style="width:70px;height:60px;">
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/js.png" alt="js" style="width:50px;height:50px;">
