@@ -10,7 +10,7 @@
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/redux.png" alt="redux" style="width:50px;height:50px;">
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/sass.png" alt="sass" style="width:50px;height:50px;">
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/sql.png" alt="sql" style="width:50px;height:50px;">
-  <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/postman.png" alt="postman" style="width:70px;height:50px;">
+  
 </div>
 <h4>Focused and achievement-oriented, high level of logic and good performance in problem-solving.
 Enthusiastic and willing to help the team.</h4>
