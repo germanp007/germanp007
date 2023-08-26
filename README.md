@@ -9,5 +9,5 @@
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/tailwind.png" alt="tailwind" style="width:50px;height:50px;">
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/redux.png" alt="redux" style="width:50px;height:50px;">
 </div>
-### Focused and achievement-oriented, high level of logic and good performance in problem-solving.
-Enthusiastic and willing to help the team.
+<h1>Focused and achievement-oriented, high level of logic and good performance in problem-solving.
+Enthusiastic and willing to help the team.</h1>
