@@ -14,7 +14,7 @@
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/bootstrap.png" alt="bootstrap" style="width:50px;height:50px;">
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/jquery.png" alt="jquery" style="width:80px;height:50px;">
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/materialui.png" alt="material" style="width:50px;height:50px;">
-  <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/zustand.png" alt="zustand" style="width:90px;height:50px;">
+  <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/zustand.png" alt="zustand" style="width:70px;height:50px;">
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/axios.png" alt="axios" style="width:90px;height:80px;">
   
 </div>
