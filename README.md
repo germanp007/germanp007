@@ -14,8 +14,8 @@
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/bootstrap.png" alt="bootstrap" style="width:50px;height:50px;">
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/jquery.png" alt="jquery" style="width:80px;height:50px;">
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/materialui.png" alt="material" style="width:50px;height:50px;">
-  <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/zustand.png" alt="zustand" style="width:50px;height:50px;">
-  <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/axios.png" alt="axios" style="width:50px;height:50px;">
+  <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/zustand.png" alt="zustand" style="width:80px;height:50px;">
+  <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/axios.png" alt="axios" style="width:80px;height:50px;">
   
 </div>
 <h4>Focused and achievement-oriented, high level of logic and good performance in problem-solving.
