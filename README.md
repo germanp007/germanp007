@@ -24,3 +24,4 @@ Enthusiastic and willing to help the team.</h4>
 * ### [Personal Portfolio](https://portfolio-frontdev.netlify.app)
 * ### [Frontend Mentor Profile](https://www.frontendmentor.io/profile/germanp007)
 * ### [LinkedIn Profile](https://www.linkedin.com/in/german-pintodev/)
+* ### [Codewars Profile](https://www.codewars.com/users/German%20Pinto)
