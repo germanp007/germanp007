@@ -1,5 +1,5 @@
 
-# Hi ✌ i'm Frontend Developer 🎨 and MERN stack in progress 💻
+# Hi ✌ i'm Frontend Developer 🎨 and MERN stack in progress 💻♥
 <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loving what i do 🚀🚀 <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="gif" style="width:250px;height:250px"></h1>
 <div style="display:flex;justify-content:center">
   
