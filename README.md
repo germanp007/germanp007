@@ -19,6 +19,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/sql.png" alt="sql" style="width:70px;height:50px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br><br>
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/bootstrap.png" alt="bootstrap" style="width:50px;height:50px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
