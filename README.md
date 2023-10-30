@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/js.png" alt="js" style="width:50px;height:50px;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/ts.png" alt="ts" style="width:70px;height:70px;">
+<img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/ts.png" alt="ts" style="width:100px;height:70px;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/tailwind.png" alt="tailwind" style="width:50px;height:50px;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
