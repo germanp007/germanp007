@@ -25,7 +25,7 @@
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/jquery.png" alt="jquery" style="width:80px;height:50px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/materialui.png" alt="material" style="width:50px;height:50px;">
- 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/axios.png" alt="axios" style="width:90px;height:60px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node" style="width:90px;height:60px;">
