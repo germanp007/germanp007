@@ -4,21 +4,32 @@
 <div style="display:flex;justify-content:center">
   
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/react.png" alt="react" style="width:50px;height:50px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/next.png" alt="next" style="width:70px;height:60px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/js.png" alt="js" style="width:50px;height:50px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/ts.png" alt="ts" style="width:70px;height:70px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/tailwind.png" alt="tailwind" style="width:50px;height:50px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/redux.png" alt="redux" style="width:50px;height:50px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/sass.png" alt="sass" style="width:50px;height:60px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/sql.png" alt="sql" style="width:70px;height:50px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/bootstrap.png" alt="bootstrap" style="width:50px;height:50px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/jquery.png" alt="jquery" style="width:80px;height:50px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/materialui.png" alt="material" style="width:50px;height:50px;">
   <br>
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/axios.png" alt="axios" style="width:90px;height:60px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node" style="width:90px;height:60px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2019/01/mongodb.png" alt="mongo" style="width:90px;height:60px;">
   
 </div>
