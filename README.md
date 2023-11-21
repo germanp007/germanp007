@@ -22,7 +22,8 @@
   <br><br>
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/bootstrap.png" alt="bootstrap" style="width:50px;height:50px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Kt5W0KSyM9jE0Hu99y15yeUhdUfcvTbP5uAIGmlSoXjleICKFQxaf-9I8EMAW5Kurlg&usqp=CAU" alt="recoil" style="width:80px;height:50px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
   <img src="https://github.com/germanp007/portfoliodev/blob/main/src/assets/coding/jquery.png" alt="jquery" style="width:80px;height:50px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
