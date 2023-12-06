@@ -34,6 +34,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node" style="width:90px;height:60px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2019/01/mongodb.png" alt="mongo" style="width:90px;height:60px;">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://nodd3r.com/media/blog/Portadas_blog_21.png" alt="git" style="width:90px;height:60px;">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="git" style="width:90px;height:60px;">
   
 </div>
 <h4>Focused and achievement-oriented, high level of logic and good performance in problem-solving.
