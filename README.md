@@ -40,7 +40,8 @@
   <img src="https://foundations.projectpythia.org/_images/GitHub-logo.png" alt="git" style="width:90px;height:60px;">
   
 </div>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 <h4>Focused and achievement-oriented, high level of logic and good performance in problem-solving.
 Enthusiastic and willing to help the team.</h4>
 
