@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on **fintech App**
+- 🔭 I’m currently working on **Debit Gateway Company**
 
 - 🌱 I’m currently learning **GraphQL, NodeJS**
 
